@@ -1,0 +1,239 @@
+# Empty CSS file for your own CSS
+
+.card-body{
+	
+	background-color: #343434;
+	
+}
+
+.card-custom{
+	
+	background-color: #343434;
+	
+}
+
+.btn-outline-purple {
+  color: #C09FFF;
+  background-image: none;
+  background-color: transparent;
+  border-color: #C09FFF;
+}
+
+.btn-outline-purple:hover {
+  color: #fff;
+  background-color: #C09FFF;
+  border-color: #C09FFF;
+}
+
+.btn-outline-purple:focus, .btn-outline-purple.focus {
+  -webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+          box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+}
+
+.btn-outline-purple.disabled, .btn-outline-purple:disabled {
+  color: #C09FFF;
+  background-color: transparent;
+}
+
+.btn-outline-purple:active, .btn-outline-purple.active,
+.show > .btn-outline-purple.dropdown-toggle {
+  color: #fff;
+  background-color: #C09FFF;
+  border-color: #C09FFF;
+}
+
+
+
+
+
+.btn-purple {
+  color: #fff;
+  background-color: #C09FFF;
+  border-color: #C09FFF;
+}
+
+.btn-purple:hover {
+  color: #fff;
+  background-color: #A97CFF;
+  border-color: #A97CFF;
+}
+
+.btn-purple:focus, .btn-purple.focus {
+  -webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+          box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+}
+
+.btn-purple.disabled, .btn-purple:disabled {
+  background-color: #0275d8;
+  border-color: #0275d8;
+}
+
+.btn-purple:active, .btn-purple.active,
+.show > .btn-purple.dropdown-toggle {
+  color: #fff;
+  background-color: #A97CFF;
+  background-image: none;
+  border-color: #A97CFF;
+}
+
+
+
+
+
+.btn-outline-custom2 {
+  color: #F09FFF;
+  background-image: none;
+  background-color: transparent;
+  border-color: #F09FFF;
+}
+
+.btn-outline-custom2:hover {
+  color: #fff;
+  background-color: #F09FFF;
+  border-color: #F09FFF;
+}
+
+.btn-outline-custom2:focus, .btn-outline-custom2.focus {
+  -webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+          box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+}
+
+.btn-outline-custom2.disabled, .btn-outline-custom2:disabled {
+  color: #F09FFF;
+  background-color: transparent;
+}
+
+.btn-outline-custom2:active, .btn-outline-custom2.active,
+.show > .btn-outline-custom2.dropdown-toggle {
+  color: #fff;
+  background-color: #F09FFF;
+  border-color: #F09FFF;
+}
+
+
+
+
+
+
+.btn-outline-custom3 {
+  color: #85FF5B;
+  background-image: none;
+  background-color: transparent;
+  border-color: #85FF5B;
+}
+
+.btn-outline-custom3:hover {
+  color: #fff;
+  background-color: #85FF5B;
+  border-color: #85FF5B;
+}
+
+.btn-outline-custom3:focus, .btn-outline-custom3.focus {
+  -webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+          box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+}
+
+.btn-outline-custom3.disabled, .btn-outline-custom3:disabled {
+  color: #85FF5B;
+  background-color: transparent;
+}
+
+.btn-outline-custom3:active, .btn-outline-custom3.active,
+.show > .btn-outline-custom3.dropdown-toggle {
+  color: #fff;
+  background-color: #85FF5B;
+  border-color: #85FF5B;
+}
+
+
+
+
+
+
+
+.btn-outline-custom4 {
+  color: #FF8585;
+  background-image: none;
+  background-color: transparent;
+  border-color: #FF8585;
+}
+
+.btn-outline-custom4:hover {
+  color: #fff;
+  background-color: #FF8585;
+  border-color: #FF8585;
+}
+
+.btn-outline-custom4:focus, .btn-outline-custom4.focus {
+  -webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+          box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+}
+
+.btn-outline-custom4.disabled, .btn-outline-custom4:disabled {
+  color: #FF8585;
+  background-color: transparent;
+}
+
+.btn-outline-custom4:active, .btn-outline-custom4.active,
+.show > .btn-outline-custom4.dropdown-toggle {
+  color: #fff;
+  background-color: #FF8585;
+  border-color: #FF8585;
+}
+
+
+
+
+
+.btn-outline-custom5 {
+  color: #F3EC64;
+  background-image: none;
+  background-color: transparent;
+  border-color: #F3EC64;
+}
+
+.btn-outline-custom5:hover {
+  color: #fff;
+  background-color: #F3EC64;
+  border-color: #F3EC64;
+}
+
+.btn-outline-custom5:focus, .btn-outline-custom5.focus {
+  -webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+          box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+}
+
+.btn-outline-custom5.disabled, .btn-outline-custom5:disabled {
+  color: #F3EC64;
+  background-color: transparent;
+}
+
+.btn-outline-custom5:active, .btn-outline-custom5.active,
+.show > .btn-outline-custom5.dropdown-toggle {
+  color: #fff;
+  background-color: #F3EC64;
+  border-color: #F3EC64;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
